@@ -1,3 +1,4 @@
+#goak ugug gulghv gvud
 echo "enter n value"
 read n
 k=1
